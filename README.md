@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi. I'm Felix. 👋</h1>
 
-<!--
-**Zylesto/zylesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Engineer @ <a href="https://www.capgemini.com/">Capgemini</a></h3>
+<h4 align="center">B. Sc. Computer Science</h4>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://linkedin.com/in/felix-berger-95b492177" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felix-berger-95b492177" height="30" width="30" /></a>
+</p>
+              
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on <a href="https://github.com/devonfw/cobigen">CobiGen<a/><br>
+
+- 🌱 I’m currently learning Java, Software Architecture and Clean Code<br>
+
+- 📫 How to reach me: **felix.berger98@icloud.com**
