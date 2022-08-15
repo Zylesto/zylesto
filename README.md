@@ -1,6 +1,6 @@
 <h1 align="center">Hi. I'm Felix. 👋</h1>
 
-<h3 align="center">Software Engineer @ <a href="https://www.capgemini.com/">Capgemini</a></h3>
+<h3 align="center">Software Engineer @ <a target="_blank" href="https://www.capgemini.com/">Capgemini</a></h3>
 <h4 align="center">B. Sc. Computer Science</h4>
 
 <p align="center">
