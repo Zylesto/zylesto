@@ -9,7 +9,7 @@
               
 <hr>
 
-- 🔭 I’m currently working on <a href="https://github.com/devonfw/cobigen">CobiGen<a/><br>
+- 🔭 I’m currently working on <a href="https://github.com/devonfw/cobigen">CobiGen<a/> and <a href="https://github.com/devonfw/ts-merger">TS-Merger<a/><br>
 
 - 🌱 I’m currently learning Java, Software Architecture and Clean Code<br>
 
