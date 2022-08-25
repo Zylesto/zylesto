@@ -9,8 +9,9 @@
               
 <hr>
 
-- 🔭 I’m currently working on <a href="https://github.com/devonfw/cobigen">CobiGen<a/> and <a href="https://github.com/devonfw/ts-merger">TS-Merger<a/><br>
+- 🔭 I’m currently working on <a href="https://github.com/devonfw/cobigen">CobiGen<a/>, <a href="https://github.com/devonfw/ts-merger">TS-Merger<a/> and 
+<a href="https://felixberger.de/html/index.html">My Website<a/><br>
 
 - 🌱 I’m currently learning Java, Software Architecture and Clean Code<br>
 
-- 📫 How to reach me: **felix.berger98@icloud.com**
+- 📫 How to reach me: <a href="https://felixberger.de/html/contact.html">Contact me!<a/>
