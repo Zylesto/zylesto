@@ -12,6 +12,8 @@
 - 🔭 I’m currently working on <a href="https://github.com/devonfw/cobigen">CobiGen<a/>, <a href="https://github.com/devonfw/ts-merger">TS-Merger<a/> and 
 <a href="https://felixberger.de/html/index.html">My Website<a/><br>
 
-- 🌱 I’m currently learning Java, Software Architecture and Clean Code<br>
+- :monocle_face: I’m currently learning Java, Software Architecture and Clean Code<br>
+
+- :clock1030: Past projects: <a href="https://github.com/ordass00/IT-Projekt">individumeal.com<a/> & many more viewable here:  <a href="https://felixberger.de/html/projects.html">Click for more projects!<a/><br>
 
 - 📫 How to reach me: <a href="https://felixberger.de/html/contact.html">Contact me!<a/>
