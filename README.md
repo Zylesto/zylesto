@@ -9,10 +9,10 @@
               
 <hr>
 
-- 🔭 I’m currently working on <a href="https://github.com/devonfw/cobigen">CobiGen<a/>, <a href="https://github.com/devonfw/ts-merger">TS-Merger<a/> and 
+- 🔭 I’m currently working on <a href="https://github.com/devonfw/cobigen">CobiGen<a/>, <a href="https://github.com/devonfw/ts-merger">TS-Merger<a/> & 
 <a href="https://felixberger.de/html/index.html">My Website<a/><br>
 
-- :monocle_face: I’m currently learning Java, Software Architecture and Clean Code<br>
+- :monocle_face: I’m currently learning Java, Software Architecture & Clean Code<br>
 
 - :clock1030: Past projects: <a href="https://github.com/ordass00/IT-Projekt">individumeal.com<a/> & many more viewable here:  <a href="https://felixberger.de/html/projects.html">Click for more projects!<a/><br>
 
