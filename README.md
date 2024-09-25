@@ -1,6 +1,6 @@
 <h1 align="center">Hi. I'm Felix. 👋</h1>
 
-<h3 align="center">Software Engineer @ <a target="_blank" href="https://www.capgemini.com/">Capgemini</a></h3>
+<h3 align="center">Working Student (Cybersecurity) @ <a target="_blank" href="https://www.capgemini.com/">Capgemini</a></h3>
 <h3 align="center">M. Sc. Computer Science Student @ <a target="_blank" href="https://www.fau.de/">Friedrich-Alexander University Erlangen-Nürnberg</a></h3>
 <h4 align="center">B. Sc. Computer Science</h4>
 
@@ -10,11 +10,10 @@
               
 <hr>
 
-- 🔭 I’m currently working on <a href="https://github.com/devonfw/cobigen">CobiGen<a/>, <a href="https://github.com/devonfw/ts-merger">TS-Merger<a/> & 
-<a href="https://felixberger.de/html/index.html">My Website<a/><br>
+- 🔭 I’m currently working on <a href="https://github.com/devonfw/cobigen">CobiGen</a>, <a href="https://github.com/devonfw/ts-merger">TS-Merger</a>, <a href="https://felixberger.de/html/index.html">My Website</a> & developing a system for classifying software vulnerabilities, automating infrastructure diagrams, and annotating potential cybersecurity threats.
 
-- :monocle_face: I’m currently learning Java, Software Architecture & Clean Code<br>
+- :shield: **Cybersecurity Focus**: As a working student, I help identify and mitigate cybersecurity threats by securing cloud infrastructures, performing vulnerability assessments, and applying Threat-Modelling techniques to enhance system security.
 
-- :clock1030: Past projects: <a href="https://github.com/ordass00/IT-Projekt">individumeal.com<a/> & many more viewable here:  <a href="https://felixberger.de/html/projects.html">Click for more projects!<a/><br>
+- :clock1030: Past projects viewable here:  <a href="https://felixberger.de/html/projects.html">Click for more projects!<a/><br>
 
 - 📫 How to reach me: <a href="https://felixberger.de/html/contact.html">Contact me!<a/>
