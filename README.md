@@ -1,6 +1,6 @@
 <h1 align="center">Hi. I'm Felix. 👋</h1>
 
-<h3 align="center">Working Student (Cybersecurity) @ <a target="_blank" href="https://www.capgemini.com/">Capgemini</a></h3>
+<h3 align="center">Working Student (Cyber Security) @ <a target="_blank" href="https://www.capgemini.com/">Capgemini</a></h3>
 <h3 align="center">M. Sc. Computer Science Student @ <a target="_blank" href="https://www.fau.de/">Friedrich-Alexander University Erlangen-Nürnberg</a></h3>
 <h4 align="center">B. Sc. Computer Science</h4>
 
