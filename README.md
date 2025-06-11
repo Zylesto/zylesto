@@ -14,6 +14,4 @@
 
 - :shield: **Cybersecurity Focus**: As a working student, I help identify and mitigate cybersecurity threats by securing cloud infrastructures, performing vulnerability assessments, and applying Threat-Modelling techniques to enhance system security.
 
-- :clock1030: Past projects viewable here:  <a href="https://felixberger.de/html/projects.html">Click for more projects!<a/><br>
-
-- 📫 How to reach me: <a href="https://felixberger.de/html/contact.html">Contact me!<a/>
+- 📫 How to reach me: <a href="https://felixberger.de/about/index.html">Contact me!<a/>
